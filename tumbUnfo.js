@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         tumblr unFo
-// @namespace    http://tampermonkey.net/
-// @version      1.0
+// @namespace    https://github.com/flotos/tumbUnfo
+// @version      1.0a
 // @description  Unfollow automatically on tumblr
 // @author       Florian Peyron | flotos
 // @match        *://*.tumblr.com/following*
